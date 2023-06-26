@@ -1,0 +1,13 @@
+Per vedere più round provare questa config (circa 5/10 round)
+
+SO_NUM_G;4
+SO_NUM_P;50
+SO_MAX_TIME;2
+SO_BASE;30
+SO_ALTEZZA;20
+SO_FLAG_MIN;3
+SO_FLAG_MAX;3
+SO_ROUND_SCORE;200
+SO_N_MOVES;50
+SO_MIN_HOLD_NSEC;100000000
+
