@@ -2,6 +2,7 @@
 <h4>Sistemi Operativi - <a href="https://en.unito.it/" target="_blank">UniTo</a> course project</h4>
 
 University project related to the management of concurrency between processes
+
 Version `1.9.4`
 
 Creation of a game in which players (managed by the CPU), compete with each other for the conquest
