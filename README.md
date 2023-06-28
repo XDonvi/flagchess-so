@@ -1,4 +1,4 @@
-## flagchess-so
+# flagchess-so
 University project related to the management of concurrency between processes - SO Course Project - Version 1.9.4
 
 Creation of a game in which players (managed by the CPU), compete with each other for the conquest
