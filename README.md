@@ -13,5 +13,5 @@ There are 3 types of process:
 2. A fixed number of player processes,
 3. A fixed number of pawn processes for each player.
 
-Author: Eugenio Donvito 
+Author: Eugenio Donvito <br>
 Since: 2020-05-15
